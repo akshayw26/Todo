@@ -5,5 +5,4 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-   base: './',  // important for correct asset paths on Vercel
 })
